@@ -761,7 +761,7 @@ Added 01/14/16
 */
 #banner .fork2 {
   position: fixed;
-  right: 50%;
+  right: 10%;
   margin-left: -325px;
   padding: 10px 12px;
   margin-top: 6px;
@@ -771,7 +771,7 @@ Added 01/14/16
 }
 /*
 fork2
-Changed "right: 50%;" from "left: 50%;" and remove quotes
+Changed "right: 10%;" from "left: 50%;" and remove quotes
 
 Insertion end
 */
