@@ -756,6 +756,25 @@ header p {
   font-size: 14px;
   background-color: #FFE788;
 }
+/*
+Added 01/14/16
+*/
+#banner .fork2 {
+  position: fixed;
+  right: 50%;
+  margin-left: -325px;
+  padding: 10px 12px;
+  margin-top: 6px;
+  line-height: 14px;
+  font-size: 14px;
+  background-color: #FFE788;
+}
+/*
+fork2
+Changed "right: 50%;" from "left: 50%;" and remove quotes
+
+Insertion end
+*/
 #banner .downloads {
   float: right;
   margin: 0 45px 0 0;
